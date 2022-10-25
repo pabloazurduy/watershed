@@ -17,4 +17,7 @@ you can clone and read the results directly from `Challenge.html` or `Challenge.
 
 To execute `Challenge.ipynb` install the packages requires on the `requirements.txt`.
 
-You can also re-run the anomaly detection script (`anomaly.py`) but that takes a longer time to execute (depending on the amount of cores)
+You can also re-run the anomaly detection script (`anomaly.py`) but that takes a long time to execute (depending on the number of cores)
+
+### **Note**:
+Some files were compressed to upload them to the repository; `anomaly_flag.csv.gz` and the plots in `anomaly_plots/`. There is no need to uncompress them, but if you run the `anomaly.py` script again it will generate the uncompressed files 
