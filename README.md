@@ -1,6 +1,7 @@
 # watershed
 Watershed Challenge
 
+you can clone and read the results directly from `Challenge.html` or `Challenge.ipynb`.
 ### Files and directories: 
 
 1. `Challenge.ipynb` : The full assignment notebook. There is also an export in HTML `Challenge.html`
@@ -14,8 +15,6 @@ Watershed Challenge
 
 ### Setup and Execution 
 
-you can clone and read the results directly from `Challenge.html` or `Challenge.ipynb`.
+To execute `Challenge.ipynb` install the packages requires on the `requirements.txt`.
 
-To execute install the packages requires on the `requirements.txt`.
-
-You can also re-run the anomaly detection script but that takes a longer time to execute (depending on the amount of cores)
+You can also re-run the anomaly detection script (`anomaly.py`) but that takes a longer time to execute (depending on the amount of cores)
