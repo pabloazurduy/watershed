@@ -1,7 +1,7 @@
 ipykernel==6.16.1
 pandas==1.5.1
 seaborn==0.12.1
-dtale==3.9.0
+dtale==3.14.1
 plotly==5.10.0
 nbformat==5.7.0
 plotly_express==0.4.0
